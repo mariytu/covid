@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="iconos/alerta">
+    <path d="M8 0C3.6 0 0 3.6 0 8C0 12.4 3.6 16 8 16C12.4 16 16 12.4 16 8C16 3.6 12.4 0 8 0L8 0ZM6.7 11.5L3.4 8.1L4.8 6.7L6.7 8.6L10.8 4.5L12.2 5.9L6.7 11.5L6.7 11.5Z" id="exito" fill="#33AC2E" stroke="none" />
+  </g>
+</svg>
